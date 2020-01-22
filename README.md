@@ -12,3 +12,4 @@ yarn install
 # serve with hot reload at localhost:8080
 npm run dev
 
+<script>console.log('hello')</script>
